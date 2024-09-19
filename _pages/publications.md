@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Peer-reviewed publications and parchments
-nav: false
+nav: true
 ---
 
 <!-- _pages/publications.md -->
