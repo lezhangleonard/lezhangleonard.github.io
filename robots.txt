@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lezhangleonard.github.io/sitemap.xml
+Sitemap: https://leonardz.me/sitemap.xml
