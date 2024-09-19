@@ -13,9 +13,9 @@ profile:
     <p>University of California, San Diego</p>
     <p>La Jolla, CA 92093</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I am a graduate student in the Department of Computer Science and Engineering at UCSD. I am a research assistant at the [System Energy Efficiency Lab (SeeLab)](http://varys.ucsd.edu/) at UCSD, supervised by Professor Tajana Rosing. 
