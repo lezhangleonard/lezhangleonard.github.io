@@ -2,7 +2,7 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: false
+nav: true
 cv_pdf: Le-Zhang-CV.pdf
 description:
 toc:
