@@ -1,9 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 5
+title: CV
+nav: false
 cv_pdf: Le-Zhang-CV.pdf
 description:
 toc:
