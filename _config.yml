@@ -316,7 +316,7 @@ scholar:
   last_name: [Zhang]
   first_name: [Le]
 
-  style: acm
+  style: apa
   locale: en
 
   source: /_bibliography/
