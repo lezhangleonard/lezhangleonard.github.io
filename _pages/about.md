@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a graduate student in the Department of Computer Science and Engineering at UCSD. I am a research assistant at [System Energy Efficiency Lab (SeeLab)](http://varys.ucsd.edu/) at UCSD, supervised by Professor Tajana Rosing. 
+I am a graduate student in the Department of Computer Science and Engineering at UCSD. I am a research assistant at the [System Energy Efficiency Lab (SeeLab)](http://varys.ucsd.edu/) at UCSD, supervised by Professor Tajana Rosing. 
 
 My research focuses on Mobile Computing and Embedded Intelligence, with a particular interest in Batteryless and Intermittent Computing and Sustainable Computing. Previously, I earned my bachelor's degree in Computer Science from the University of North Carolina at Chapel Hill, supervised by [Professor Shahriar Nirjon](https://www.cs.unc.edu/~nirjon/). 
