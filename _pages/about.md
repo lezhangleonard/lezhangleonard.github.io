@@ -22,4 +22,4 @@ I am a graduate student in the Department of Computer Science and Engineering at
 
 My research broadly covers mobile computing and embedded intelligence, with a particular interest in batteryless and intermittent computing and sustainable computing. Additionally, my research interests also relate to wireless technologies and edge speech/audio processing and applications. Previously, I earned my bachelor's degree in Computer Science from the University of North Carolina at Chapel Hill, supervised by [Professor Shahriar Nirjon](https://www.cs.unc.edu/~nirjon/). 
 
-You may find my [CV](https://leonardz.me/assets/pdf/Le-Zhang-CV.pdf) and [GitHub Repo](https://github.com/lezhangleonard) here. 
+You may find my [CV](https://leonardz.me/assets/pdf/Le-Zhang-CV.pdf), [Google Scholar](https://scholar.google.com/citations?user=tFFuEqwAAAAJ), and [GitHub Repo](https://github.com/lezhangleonard) here. 
