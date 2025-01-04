@@ -15,7 +15,7 @@ authors:
   - Le Zhang
   - Onat Gungor
   - Flavio Ponzina
-  - ajana Rosing
+  - Tajana Rosing
 links:
   Paper: https://arxiv.org/abs/2302.13155
 ---
