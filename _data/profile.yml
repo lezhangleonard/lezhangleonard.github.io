@@ -2,6 +2,10 @@ primary_name: "Le (Leonard) Zhang"
 secondary_name: ""
 navbar_name: "Leonard Zhang"
 
+positions:
+- logo: /assets/images/badges/ucsd.png 
+  name: Graduate Student @ UCSD CSE
+
 email: "lez014@ucsd.edu"
 cv_link: "/assets/Leonard_Zhang_CV.pdf"
 gscholar: tFFuEqwAAAAJ  # This is an example, replace it with your own Google Scholar ID
@@ -13,10 +17,8 @@ linkedin: le-leonard-zhang
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    
-  </p>
-  <p>
-    
+    My research broadly focuses on bridging embedded and mobile systems with emerging technologies like artificial intelligence, emphasizing system efficiency, sustainability, and user accessibility. 
+    I aim to develop innovative solutions that address real-world challenges while optimizing resource consumption and enhancing usability for diverse applications.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
