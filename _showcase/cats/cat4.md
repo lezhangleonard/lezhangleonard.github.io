@@ -6,9 +6,4 @@ group: Other
 ---
 <div>
   <img src="{{ '/assets/images/cat4.jpg' | relative_url }}">
-  <div class="card-body">
-    <p class="card-text">
-      
-    </p>
-  </div>
 </div>
