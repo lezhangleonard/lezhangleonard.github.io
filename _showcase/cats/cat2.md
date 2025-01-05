@@ -8,7 +8,7 @@ group: Cats
     <img src="{{ 'assets/images/etc/cat2.jpg' | relative_url }}" class="img-fluid rounded" >
     <div class="card-body">
     <p class="card-text">
-      Meow, my name is Hope, loves fried chicken and cake.
+      Meow, my name is Hope, loves fried chicken and cake. My owner thought I was born in the kitchen of McDonald's.
     </p>
   </div>
 </div>
