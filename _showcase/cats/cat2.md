@@ -5,7 +5,7 @@ date: 2020-01-12 00:01:00 +0800
 group: Cats
 ---
 <div>
-    <img src="{{ '/assets/images/cat2.jpg' | relative_url }}" data-toggle="tooltip" data-placement="top">
+    <img src="{{ 'assets/images/etc/cat2.jpg' | relative_url }}" class="img-fluid rounded" >
     <div class="card-body">
     <p class="card-text">
       Meow, my name is Hope, loves fried chicken and cake.
