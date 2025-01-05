@@ -6,9 +6,4 @@ group: Cats
 ---
 <div>
 <img src="{{ 'assets/images/etc/cat1.jpg' | relative_url }}" class="img-fluid rounded" >
-  <div class="card-body">
-    <p class="card-text">
-      When human-beings leave for travel ...
-    </p>
-  </div>
 </div>
