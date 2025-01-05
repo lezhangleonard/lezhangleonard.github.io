@@ -5,5 +5,5 @@ date: 2020-01-10 00:01:00 +0800
 group: Cats
 ---
 <div>
-  <img src="{{ '/assets/images/cat4.jpg' | relative_url }}">
+  <img src="{{ 'assets/images/etc/cat4.jpg' | relative_url }}" class="img-fluid rounded" >
 </div>
