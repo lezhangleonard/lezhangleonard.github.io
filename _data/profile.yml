@@ -7,12 +7,11 @@ positions:
   name: Graduate Student @ UCSD CSE
 
 email: "lez014@ucsd.edu"
-cv_link: "/assets/Leonard_Zhang_CV.pdf"
+cv_link: "/Leonard_Zhang_CV.pdf"
 gscholar: tFFuEqwAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: lezhangleonard
-twitter: l30n4rd.bsky.social
 linkedin: le-leonard-zhang
-
+twitter: l30n4rd.bsky.social
 
 short_bio_text_justify: false
 short_bio: >-

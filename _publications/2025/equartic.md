@@ -18,4 +18,5 @@ authors:
   - Tajana Rosing
 links:
   Paper: https://arxiv.org/abs/2409.08369
+  Code: https://github.com/lezhangleonard/E-QUARTIC
 ---

@@ -1,6 +1,6 @@
 ---
 title:          "Efficient Multitask Learning on Resource-constrained Systems"
-date:           2024-05-12 00:01:00 +0800
+date:           2024-12-15 00:01:00 -0500
 selected:       true
 pub:            "International Conference on Embedded Wireless Systems and Networks (EWSN)"
 # pub_pre:        "Submitted to "
@@ -18,4 +18,5 @@ authors:
   - Shahriar Nirjon
 links:
   Paper: https://arxiv.org/abs/2302.13155
+  Code: https://github.com/YuboLuo/Antler
 ---

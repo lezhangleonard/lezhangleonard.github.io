@@ -1,6 +1,6 @@
 ---
 title:          "Demo Abstract: Capuchin: A Neural Network Model Generator for 16-bit Microcontrollers"
-date:           2022-05-12 00:01:00 -0500
+date:           2022-05-20 00:01:00 -0500
 selected:       true
 pub:            "International Conference on Information Processing in Sensor Networks (IPSN)"
 # pub_pre:        "Submitted to "

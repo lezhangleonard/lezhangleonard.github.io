@@ -1,6 +1,6 @@
 ---
 title:          "Poster: Resource-Efficient Environmental Sound Classification Using Hyperdimensional Computing"
-date:           2024-05-12 00:01:00 +0800
+date:           2024-12-01 00:01:00 -0500
 selected:       false
 pub:            "ACM Conference on Embedded Networked Sensor Systems (SenSys)"
 # pub_pre:        "Submitted to "
