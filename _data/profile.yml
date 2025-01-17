@@ -17,7 +17,7 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     My research broadly focuses on bridging embedded and mobile systems with emerging technologies like artificial intelligence, emphasizing system efficiency, sustainability, and user accessibility. 
-     Mobile and embedded AI systems and applications face challenges in limited computing resources and demands in long-term sustainable operations. 
+     Mobile and embedded AI systems and applications often face challenges in limited computing resources and demands in long-term sustainable operations. 
     I aim to develop innovative solutions that address real-world challenges while optimizing resource consumption and enhancing usability for diverse applications.
   </p>
 
