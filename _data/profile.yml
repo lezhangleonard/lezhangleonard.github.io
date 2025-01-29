@@ -34,12 +34,18 @@ portrait_caption: >-
   Life before becoming a CS student ...
 
 education:
+- name: University of Michigan, Ann Arbor
+  logo: /assets/images/badges/um-badge.png
+  position: >- 
+    Department of Computer Science and Engineering <br/>
+    Ph.D. Student in Computer Science
+  date: Starting Aug. 2025
 - name: University of California, San Diego
   logo: /assets/images/badges/ucsd.png
   position: >- 
     Department of Computer Science and Engineering <br/>
     M.S. Student in Computer Science
-  date: Sep. 2023 - present
+  date: Sep. 2023 - Jun. 2025
 - name: University of North Carolina at Chapel Hill
   logo: /assets/images/badges/unc.png
   position: B.A. in Computer Science
