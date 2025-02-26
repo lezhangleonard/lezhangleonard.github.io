@@ -2,7 +2,7 @@
 title:          "Offload Rethinking by Cloud Assistance for Efficient Environmental Sound Recognition on LPWANs"
 date:           2025-01-27 00:01:00 -0800
 selected:       true
-pub:            "the 23rd ACM Conference on Embedded Networked Sensor Systems (SenSys)"
+pub:            "the ACM Conference on Embedded Networked Sensor Systems (SenSys)"
 pub_pre:        "Conditionally Accepted by "
 pub_date:       "2025"
 
