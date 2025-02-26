@@ -9,7 +9,7 @@ pub:            "ACM Conference on Embedded Networked Sensor Systems (SenSys)"
 pub_date:       "2024"
 
 abstract: >-
-  On-device environmental sound classification (ESC) in rural areas faces one major challenge of resource efficiency. Traditional methods rely on resource-intensive machine learning models, making them impractical for small edge devices like microcontrollers (MCUs). This poster presents SoundHD, a novel ESC solution using Hyperdimensional Computing (HDC), a brain-inspired and lightweight computing paradigm. We further optimize the memory footprint for deployment on MCUs. Our initial results show that SoundHD can be deployed and executed effectively on memory-constrained MCUs.
+  On-device environmental sound classification (ESC) in rural areas faces one major challenge of resource efficiency. Traditional methods rely on resource-intensive machine learning models, making them impractical for small edge devices like microcontrollers (MCUs). This poster presents SoundHD, a novel ESC solution using Hyperdimensional Computing (HDC), a brain-inspired and lightweight computing paradigm. 
 cover:          /assets/images/covers/soundhd.png
 authors:
   - Run Wang
