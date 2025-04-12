@@ -8,7 +8,7 @@ pub:            "ACM/IEEE International Conference on Information Processing in 
 pub_date:       "2022"
 
 abstract: >-
-  Resource-optimized deep neural networks (DNNs) nowadays run on microcontrollers to perform a wide variety of audio, image and sensor data classification tasks. Despite comprehensive support for deep learning tools for 32-bit microcontrollers, performing deep learning inferences on 16-bit microcontrollers still remains a challenge. To fill this gap, we have created a neural network model generator that (1) automatically transfers parameters of a pre-trained DNN or CNN model from commonly used frameworks to a 16-bit microcontroller, and (2) automatically implements the model on the microcontroller to perform on-device inference.
+  We present a neural network model generator that automatically transfers parameters from pre-trained DNN or CNN models to 16-bit microcontrollers and implements on-device inference. This tool bridges the gap in efficiency and usability between development tools for 16-bit and 32-bit microcontrollers, significantly simplifying deep learning deployment on ultra-low-power devices.
 cover:          /assets/images/covers/capuchin.png
 authors:
   - Le Zhang
