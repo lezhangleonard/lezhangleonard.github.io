@@ -7,7 +7,7 @@ pub_pre:        "Accepted by "
 pub_date:       "2025"
 
 abstract: >-
-  Learning-based environmental sound recognition has emerged as a crucial method for ultra-low-power environmental monitoring in biological research and city-scale sensing systems. These systems usually operate under limited resources and are often powered by harvested energy in remote areas. Recent efforts in on-device sound recognition suffer from low accuracy due to resource constraints, whereas cloud offloading strategies are hindered by high communication costs. In this work, we introduce ORCA, a novel resource-efficient cloud-assisted environmental sound recognition system on batteryless devices operating over the Low-Power Wide-Area Networks (LPWANs), targeting wide-area audio sensing applications. 
+  We present ORCA, a resource-efficient, cloud-assisted environmental sound recognition system designed for batteryless devices using Low-Power Wide-Area Networks (LPWANs). ORCA addresses the accuracy limitations of on-device methods and reduces communication costs of cloud-offloading strategies, enabling ultra-low-power, wide-area audio sensing applications. 
 cover:          /assets/images/covers/orca.png
 authors:
   - Le Zhang
