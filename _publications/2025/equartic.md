@@ -8,7 +8,7 @@ pub:            "Asia and South Pacific Design Automation Conference (ASPDAC)"
 pub_date:       "2025"
 
 abstract: >-
-  In this work, we propose E-QUARTIC, a novel Energy Efficient Edge Ensembling framework to build ensembles of CNNs targeting Artificial Intelligence (AI)-based embedded systems. Our design outperforms single-instance CNN baselines and state-of-the-art edge AI solutions, improving accuracy and adapting to varying energy conditions while maintaining similar memory requirements. Then, we leverage the multi-CNN structure of the designed ensemble to implement an energy-aware model selection policy in energy-harvesting AI systems.
+  We propose E-QUARTIC, an energy-efficient edge ensembling framework that constructs CNN ensembles optimized for AI-based embedded systems, achieving higher accuracy than single-instance CNNs and existing edge solutions without additional memory overhead. Leveraging its multi-CNN architecture, E-QUARTIC also implements an energy-aware model selection strategy tailored for energy-harvesting AI environments.
 
 cover:          /assets/images/covers/equartic.png
 authors:
