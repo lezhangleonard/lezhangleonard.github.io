@@ -3,7 +3,7 @@ title:          "Offload Rethinking by Cloud Assistance for Efficient Environmen
 date:           2025-01-27 00:01:00 -0800
 selected:       true
 pub:            "the ACM Conference on Embedded Networked Sensor Systems (SenSys)"
-pub_pre:        "Accepted by "
+pub_pre:        ""
 pub_date:       "2025"
 
 abstract: >-
