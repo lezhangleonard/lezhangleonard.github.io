@@ -18,5 +18,5 @@ authors:
   - Flavio Ponzina
   - Tajana Rosing
 links:
-  Paper: https://arxiv.org/abs/2502.15285
+  Paper: https://dl.acm.org/doi/10.1145/3715014.3722078
 ---
