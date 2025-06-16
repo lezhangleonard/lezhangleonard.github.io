@@ -15,29 +15,29 @@ linkedin: le-leonard-zhang
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    My research broadly focuses on bridging embedded and mobile systems with emerging technologies like artificial intelligence, emphasizing system efficiency, sustainability, and user accessibility. 
-     Mobile and embedded AI systems and applications often face challenges in limited computing resources and demands in long-term sustainable operations. 
-    I aim to develop innovative solutions that address real-world challenges while optimizing resource consumption and enhancing usability for diverse applications.
+    My research focuses on developing novel and efficient intelligent sensing systems. 
+    Mobile and embedded AI systems face challenges such as constrained computations, limited energy availability, and the need for reliable long-term operation. 
+    I aim to create practical solutions that prioritize efficiency, sustainability, and user accessibility.
   </p>
 
 
   <p> 
-    Meanwhile, I am also a lifelong HCI (aka. Human-Cat Interaction) researcher. 
-    My research primarily focuses on how to efficiently communicate and interact with <a href="./showcase">Miss Hope</a>, an adopted American Shorthair raised in the Midwest. 
+    Meanwhile, I am also a lifelong Human-Cat Interaction researcher. 
+    My research primarily focuses on how to efficiently communicate and interact with <a href="./showcase">Miss Hope</a>, an adopted American Domestic Shorthair raised in the Midwest. 
     My current projects—How to Prevent Your Cat from Tampering with Jumper Wires and How to Evict Your Feline Overlord from Your Keyboard and Desk—are graciously funded by our first electric officer and wiring manager. 
     They ensure that my circuits (and sanity) remain intact while Miss Hope continues to offer new challenges in the ever-evolving field of HCI.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Life before becoming a CS student ...
+  Great life before becoming a CS student ...
 
 education:
 - name: University of Michigan, Ann Arbor
   logo: /assets/images/badges/um-badge.png
   position: >- 
     Electrical Engineering and Computer Science Department<br/>
-    Incoming Ph.D. Student in Computer Science and Engineering
+    Ph.D. Student in Computer Science and Engineering
   date: Starting Sep. 2025
 - name: University of California, San Diego
   logo: /assets/images/badges/ucsd.png
