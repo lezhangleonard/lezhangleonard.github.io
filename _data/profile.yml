@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Leonard Zhang"
 
 positions:
-- logo: /assets/images/badges/ucsd.png 
-  name: Graduate Student @ UCSD CSE
+- logo: /assets/images/badges/um-badge.png
+  name: PhD Student @ UMich CSE
 
 email: "zle@umich.edu"
 cv_link: "/Leonard_Zhang_CV.pdf"
