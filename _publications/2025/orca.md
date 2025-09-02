@@ -19,4 +19,5 @@ authors:
   - Tajana Rosing
 links:
   Paper: https://dl.acm.org/doi/10.1145/3715014.3722078
+  Slide: https://leonardz.me/ORCA-presentation.pdf
 ---
