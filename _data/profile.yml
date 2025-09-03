@@ -18,6 +18,8 @@ short_bio: >-
     My research focuses on developing novel and efficient intelligent embedded and sensing systems. 
     Mobile and embedded AI systems always face challenges such as constrained computations, scarce energy availability, limited communication bandwidth, and the need for reliable long-term operation. 
     I aim to create practical solutions that prioritize efficiency, sustainability, and user accessibility of mobile sensing systems, while supporting diverse backend machine learning applications.
+  </p>
+  <p>
     My recent projects include building novel sensing systems on smartglasses for daily memory augmentations and <a href="https://dl.acm.org/doi/abs/10.1145/3715014.3722078">efficient edge-cloud collaborative learning over LPWANs</a>.
   </p>
 
