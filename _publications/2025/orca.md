@@ -10,13 +10,13 @@ abstract: >-
   We present ORCA, a resource-efficient, cloud-assisted environmental sound recognition system designed for batteryless devices using Low-Power Wide-Area Networks (LPWANs). ORCA addresses the accuracy limitations of on-device methods and reduces communication costs of cloud-offloading strategies, enabling ultra-low-power, wide-area audio sensing applications. 
 cover:          /assets/images/covers/orca.png
 authors:
-  - Le Zhang
-  - Quanling Zhao
+  - Le Zhang*
+  - Quanling Zhao*
   - Run Wang
   - Shirley Bian
   - Onat Gungor
   - Flavio Ponzina
-  - Tajana Rosing
+  - Tajana Rosing (* for equal contribution)
 links:
   Paper: https://dl.acm.org/doi/10.1145/3715014.3722078
   Slide: https://leonardz.me/ORCA-presentation.pdf
