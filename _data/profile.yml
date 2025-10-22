@@ -15,12 +15,13 @@ linkedin: le-leonard-zhang
 short_bio_text_justify: false
 short_bio: >-
   <p>
+    My name is Leonard and I'm a first year PhD student at UMich CSE, working with Professor <a href="https://samsonsjarkal.github.io/KeSun/">Ke Sun<\a> at AmI lab. 
     My research focuses on developing novel and efficient intelligent embedded and sensing systems. 
     Mobile and embedded AI systems always face challenges such as constrained computations, scarce energy availability, limited communication bandwidth, and the requirements for reliable long-term operation. 
     I aim to create practical solutions that prioritize efficiency, sustainability, and user accessibility of mobile sensing systems, while supporting diverse backend machine learning applications.
   </p>
   <p>
-    My recent projects include building novel sensing systems on smartglasses for daily memory augmentations and <a href="https://dl.acm.org/doi/abs/10.1145/3715014.3722078">efficient collaborative learning over LPWANs [SenSys'25]</a>. 
+    My recent projects include building novel sensing systems on smartglasses for daily memory augmentations and efficient collaborative learning over LPWANs <a href="https://dl.acm.org/doi/abs/10.1145/3715014.3722078">ORCA [SenSys'25]</a>. 
     My previous research mainly relates to build efficient machine learning frameworks on resource-constrained embedded systems: 
     <a href="https://dl.acm.org/doi/pdf/10.1145/3658617.3697751">E-QUARTIC [ASP-DAC'25]</a>, 
     <a href="https://arxiv.org/pdf/2302.13155">Antler [EWSN'24]</a>, and
@@ -29,14 +30,11 @@ short_bio: >-
 
 
   <p> 
-    Meanwhile, I am also a lifelong Human-Cat Interaction researcher. 
-    My research primarily focuses on how to efficiently communicate and interact with <a href="./showcase">Miss Hope</a>, an adopted American Domestic Shorthair raised in the Midwest. 
-    My current projects—How to Prevent Your Cat from Tampering with Jumper Wires and How to Evict Your Feline Overlord from Your Keyboard and Desk—are graciously funded by our first electric officer and wiring manager. 
+    Meanwhile, I am closely working with my furry research partner <a href="./showcase">Miss Hope</a>, an adopted American domestic shorthair raised in the Midwest.
+    My research primarily focuses on how to efficiently communicate and interact with her from tampering with my jumper wires and sitting on my keyboard.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Great life before becoming a CS student ...
 
 education:
 - name: University of Michigan, Ann Arbor
