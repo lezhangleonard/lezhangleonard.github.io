@@ -15,8 +15,7 @@ linkedin: le-leonard-zhang
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    My name is Leonard and I am a first year PhD student at EECS Department at University of Michigan, Ann Arbor.
-    I am working with <a href="https://samsonsjarkal.github.io/KeSun/">Professor Ke Sun</a> at AmI lab. 
+    My name is Leonard and I am a first-year PhD student at EECS Department at University of Michigan, Ann Arbor, working with <a href="https://samsonsjarkal.github.io/KeSun/">Professor Ke Sun</a> at AmI lab. Previously, I worked with Professor Tajana Rosing in the SEELab at UC San Diego and Professor Shahriar Nirjon at UNC Chapel Hill.
   </p>
   <p>
     My research focuses on developing novel and efficient intelligent embedded and sensing systems. 
@@ -30,7 +29,6 @@ short_bio: >-
     <a href="https://arxiv.org/pdf/2302.13155">Antler [EWSN'24]</a>, and
     <a href="https://yuboluo.github.io/publication/07_capuchin/07_Capuchin.pdf">Capuchin [IPSN'22]</a>.
   </p>
-
 
   <p> 
     Meanwhile, I am closely working with my furry research partner <a href="./showcase">Miss Hope</a>, an adopted American domestic shorthair raised in the Midwest.
