@@ -23,8 +23,9 @@ short_bio: >-
     I aim to create practical solutions that prioritize efficiency, sustainability, and user accessibility of mobile sensing systems, while supporting diverse backend machine learning applications.
   </p>
   <p>
-    My recent projects include building novel sensing systems on smartglasses for daily memory augmentations and efficient collaborative learning over LPWANs <a href="https://dl.acm.org/doi/abs/10.1145/3715014.3722078">ORCA [SenSys'25]</a>. 
+    My recent projects include building novel sensing systems on smartglasses for daily memory augmentations. 
     My previous research mainly relates to build efficient machine learning frameworks on resource-constrained embedded systems: 
+    <a href="https://dl.acm.org/doi/abs/10.1145/3715014.3722078">ORCA [SenSys'25]</a>,
     <a href="https://dl.acm.org/doi/pdf/10.1145/3658617.3697751">E-QUARTIC [ASP-DAC'25]</a>, 
     <a href="https://arxiv.org/pdf/2302.13155">Antler [EWSN'24]</a>, and
     <a href="https://yuboluo.github.io/publication/07_capuchin/07_Capuchin.pdf">Capuchin [IPSN'22]</a>.
