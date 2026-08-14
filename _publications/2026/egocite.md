@@ -8,6 +8,7 @@ pub_date:       "2026"
 abstract: >-
   We introduce EgoCITE, a long-horizon agentic memory framework for egocentric question answering. EgoScheme converts fragmentary video captions and speech transcripts into self-contained memory indices, EgoIndex organizes complementary multi-view representations at multiple granularities, and EgoRetrv combines semantic search with question-conditioned temporal relevance scoring. Across EgoLifeQA, EgoMem, and EgoR1-Bench, EgoCITE improves accuracy over agentic memory baselines by 4.4--14.2% while achieving 36x lower cost than long-context LLM agents.
 
+cover:          /assets/images/covers/egocite.png
 authors:
   - Le Zhang
   - Ke Sun
