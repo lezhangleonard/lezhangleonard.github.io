@@ -11,6 +11,9 @@ abstract: >-
 cover:          /assets/images/covers/egocite.png
 authors:
   - Le Zhang
+  - Hao Chen
+  - Vlad Roznyatovskiy
+  - Jianzhong Zhang
   - Ke Sun
 links:
   Paper: https://arxiv.org/abs/2608.12627
