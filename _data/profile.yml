@@ -21,7 +21,7 @@ short_bio: >-
     My research focuses on developing novel and efficient intelligent embedded and sensing systems. I aim to create practical solutions that prioritize efficiency, sustainability, and user accessibility of mobile sensing systems, while supporting diverse backend machine learning applications.
   </p>
   <p>
-    My current research interests include (1) Optimizing AR/VR/wearable vision systems (sensing, transmission, understanding, and rendering etc.), (2) Improving system efficiency for multimodal agents and agentic memory, (3) Low-power and efficient multimodal on-device learning. 
+    My current research interests include (1) Optimizing AR/VR/wearable vision systems (sensing, transmission, understanding, and rendering etc.), (2) Improving system efficiency for multimodal agents and agentic memory, (3) Low-power and efficient multimodal sensing and on-device learning. 
   </p>
   <p>
     My previous research mainly relates to build efficient machine learning frameworks on resource-constrained embedded systems: 
