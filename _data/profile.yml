@@ -21,14 +21,7 @@ short_bio: >-
     My research focuses on developing intelligent embedded and cyber-physical systems. I aim to create practical solutions that prioritize efficiency, timeliness, and sustainability of mobile and networked systems, while supporting diverse backend machine learning applications.
   </p>
   <p>
-    My current research interests include (1) Optimizing AR/VR/AI glasses/wearable vision systems (perception, on-device learning, network, and open-end reasoning etc.), 
-    (2) Improving system efficiency for multimodal agents and agentic memory
-    (<a href="https://egocite.github.io/">EgoCITE [Arxiv]</a>).
-    (3) Low-power and efficient multimodal sensing and on-device learning 
-    (<a href="https://dl.acm.org/doi/abs/10.1145/3715014.3722078">ORCA [SenSys'25]</a>,
-    <a href="https://dl.acm.org/doi/pdf/10.1145/3658617.3697751">E-QUARTIC [ASP-DAC'25]</a>,
-    <a href="https://ewsn.org/file-repository/ewsn2024/ewsn24-final44.pdf">Antler [EWSN'24]</a>,
-    <a href="https://yuboluo.github.io/publication/07_capuchin/07_Capuchin.pdf">Capuchin [IPSN'22]</a>).
+    My current research interests include (1) Optimizing AR/VR/AI glasses/wearable vision systems (perception, on-device learning, network, and open-end reasoning etc.), (2) Improving system efficiency for multimodal agents and agentic memory <a href="https://egocite.github.io/">EgoCITE [Arxiv]</a>. (3) Low-power and efficient multimodal sensing and on-device learning <a href="https://dl.acm.org/doi/abs/10.1145/3715014.3722078">ORCA [SenSys'25]</a>, <a href="https://dl.acm.org/doi/pdf/10.1145/3658617.3697751">E-QUARTIC [ASP-DAC'25]</a>, <a href="https://ewsn.org/file-repository/ewsn2024/ewsn24-final44.pdf">Antler [EWSN'24]</a>, <a href="https://yuboluo.github.io/publication/07_capuchin/07_Capuchin.pdf">Capuchin [IPSN'22]</a>.
   </p>
   <p>
     Previously, I worked with <a href="https://cseweb.ucsd.edu/~trosing/">Professor Tajana Rosing</a> at UCSD and <a href="https://www.cs.unc.edu/~nirjon/">Professor Shahriar Nirjon</a> at UNC-Chapel Hill. 
