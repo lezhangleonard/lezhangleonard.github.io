@@ -19,5 +19,6 @@ authors:
   - Kang G. Shin
   - Ke Sun
 links:
+  Paper: https://arxiv.org/abs/2611.09089
   Project: https://eventhoi.github.io
 ---
